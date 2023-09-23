@@ -1,2 +1,2 @@
 # Modelo_simulador
-Esse repositório é dedicado ao treinamento de um modelo em Machine Learning utilizando a biblioteca tensorflow. A partir da simulação de circuitos RLC série ...
+Esse repositório é dedicado ao treinamento de um modelo em Machine Learning utilizando a biblioteca tensorflow. A partir da simulação de circuitos RLC série usando distribuições de valores para R, L e C coletamos valores discretos da resposta da corrente em função do tempo, usando essa coletânea de dados, treinamos um modelo passando os valores da corrente discretizada no tempo a fim de obter como retorno os valores de R, L e C.
