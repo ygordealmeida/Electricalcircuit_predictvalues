@@ -1,4 +1,4 @@
-# Predição de valores de um circuito RLC a partir de sua onda
+# Predição de valores de um circuito RLC a partir de sua onda de corrente, utilizando Deep Learning
 Esse repositório é dedicado ao treinamento de um modelo em Machine Learning utilizando a biblioteca tensorflow. 
 A partir da simulação de circuitos RLC série usando distribuições de valores para R, L, C e uma fonte de onda de pulso quadrado coletamos valores discretos da resposta da corrente em função do tempo.
 Usando essa coletânea de dados, treinamos um modelo passando os valores da corrente discretizada no tempo a fim de obter como retorno os valores de R, L e C.
