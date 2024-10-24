@@ -1,4 +1,4 @@
-<h1 align="center">Utilização prática da rede neural</h1>
+<h1 align="center">Utilização da Rede Neural em Montagens Físicas</h1>
 
 ### Essa aba visa mostrar testes feitos utilizando componentes físicos, para tal foi utilizado:
 
