@@ -10,7 +10,9 @@
 
 Configura-se o MCU como fonte quadrática que alimenta o circuito RLC, em seguida com o software Waveforms é possível coletar as amostras do canal ligado ao osciloscópio, a ponta de prova esta ligada de tal forma que observamos a tensão sobre o resistor, com as amostras coletadas, dividimos a tensão no resistor pelo valor da resistência que já é conhecido assim obtemos i(t), então é realizado a plotagem da figura em um código python, após isso se faz o pré-processamento e a figura é enviada para a rede neural.
 
-Na execução dessa aba foi utilizado um circuito com R= 300 ohms, L = 335 µH, C = 7,57 nF e foi obtido como previsão: R= 301,729 ohms, L= 530,411 µH, C= 9,956 nF 
+#### Na execução dessa aba foi utilizado um circuito com R= 300 ohms, L = 335 µH, C = 7,57 nF 
+
+#### Foi obtido como previsão: R= 301,729 ohms, L= 530,411 µH, C= 9,956 nF 
 
 
 
